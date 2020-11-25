@@ -5,7 +5,7 @@ This shell script can compare five universities based on how many faculty member
 # How to use
 
 # First Step
-Type "sudo apt-get install html2text" (For converting HTML to test) 
+Type "sudo apt-get install html2text" (For converting HTML to text) 
 
 # Second Step
 type "./run.sh" (Execute the file) 
